@@ -13,11 +13,11 @@ local Loader = {}
 Loader.Repository = "https://raw.githubusercontent.com/NyxaSylph/Vellure/tree/main"
 Loader.Files = {
     ["A Universal Time"] = {
-        File = "AUT.lua",
+        File = "AUT/Main.lua",
         CreatorId = 6556072
     },
     ["Forsaken"] = {
-        File = "Forsaken.lua", 
+        File = "Forsaken/Main.lua", 
         CreatorId = 33548380
     }
 }

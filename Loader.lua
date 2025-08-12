@@ -10,7 +10,7 @@ end
 
 local Loader = {}
 
-Loader.Repository = "https://raw.githubusercontent.com/NyxaSylph/Vellure/refs/heads/main/"
+Loader.Repository = "https://raw.githubusercontent.com/NyxaSylph/Vellure/refs/heads/main"
 Loader.Files = {
     ["A Universal Time"] = {
         File = "AUT/Main.lua",

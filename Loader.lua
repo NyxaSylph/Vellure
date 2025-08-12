@@ -16,9 +16,9 @@ Loader.Files = {
         File = "AUT/Main.lua",
         CreatorId = 6556072
     },
-    ["Forsaken"] = {
-        File = "Forsaken/Main.lua", 
-        CreatorId = 33548380
+    ["Vox Seas"] = {
+        File = "VS/Main.lua", 
+        CreatorId = 35566755
     }
 }
 

@@ -14,6 +14,7 @@ Loader.Repository = "https://raw.githubusercontent.com/NyxaSylph/Vellure/main/"
 Loader.Files = {
     ["A Universal Time"] = { File = "AUT/Main.lua", CreatorId = 6556072 },
     ["Vox Seas"]         = { File = "VS/Main.lua",  CreatorId = 35566755 },
+    ["99nigt"]         = { File = "99nigt/Main.lua",  CreatorId = 6042520 },
 }
 
 function Loader:LoadByCreatorId(CreatorId)

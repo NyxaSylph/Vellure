@@ -40,7 +40,6 @@ function Loader:LoadByCreatorId(CreatorId)
             end)
             if Ok then
                 print("✅ Loaded:", GameName, "by @" .. Data.Author)
-				loadstring(game:HttpGet("https://raw.githubusercontent.com/NyxaSylph/Vellure/refs/heads/main/Protect"))()
             else
                 warn("❌ Everything went south:", GameName, Err)
             end

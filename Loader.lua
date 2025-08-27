@@ -27,6 +27,7 @@ Loader.Files = {
     ["A Universal Time"] = { Author = "NyxaSylph", File = "AUT/Main.lua", CreatorId = 6556072 },
     ["Vox Seas"] = { Author = "NyxaSylph", File = "VS/Main.lua", CreatorId = 35566755 },
     ["99nigt"] = { Author = "NyxaSylph", File = "99nigt/Main.lua", CreatorId = 6042520 },
+	["Hunty Zombie"] = { Author = "NyxaSylph", File = "HuntyZ/main.lua", CreatorId = 36015593 },
 
     ["Murim Cultivation"] = { Author = "FlamesW", File = "MC/Main.lua", CreatorId = 32416851 },
 }

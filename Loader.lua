@@ -28,7 +28,8 @@ Loader.Files = {
     ["Vox Seas"] = { Author = "NyxaSylph", File = "VS/Main.lua", CreatorId = 35566755 },
     ["99nigt"] = { Author = "NyxaSylph", File = "99nigt/Main.lua", CreatorId = 6042520 },
 	["Hunty Zombie"] = { Author = "NyxaSylph", File = "HuntyZ/main.lua", CreatorId = 36015593 },
-
+    
+	["Blade X Zombies"] = { Author = "FlamesW", File = "BXZ/Main.lua", CreatorId = 8762149595 },
     ["Weak Legacy 2"] = { Author = "FlamesW", File = "WL2/Main.lua", CreatorId = 34970628 },
     ["Murim Cultivation"] = { Author = "FlamesW", File = "MC/Main.lua", CreatorId = 32416851 },
 }

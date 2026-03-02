@@ -8,7 +8,7 @@ local Players = cloneref(game:GetService("Players"))
 local VirtualUser = cloneref(game:GetService("VirtualUser"))
 local LPlayer = Players.LocalPlayer
 
-repeat task.wait() until game:IsLoaded() and LPlayer and LPlayer.Character
+repeat task.wait() until game:IsLoaded() and LPlayer
 
 LPlayer.Idled:Connect(function()
     pcall(function()

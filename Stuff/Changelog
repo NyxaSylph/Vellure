@@ -1,0 +1,44 @@
+local Data = {}
+
+Data.Build = "1.1"
+
+Data.SupportedGames = {
+    {
+        Game = "Bizzare Lineage",
+        Status = "Live",
+        Date = "03-02-2026"
+    },
+}
+
+Data.Changelogs = {
+    {
+        Title = "Bizzare Lineage",
+        Date = "03/03",
+
+        Changes = {
+            "[+] Auto Block DIO",
+            "[+] More Advanced Stand Sniper",
+            "[+] Farm Selected Mobs",
+
+            "[~] Auto Mission — improved infinite NPC talk",
+            "[~] Auto PvP Mission — improved stability",
+            "[~] Auto Raids — improved logic and reliability",
+            "[~] Server Hop Farm"
+        },
+
+        Note = "Stability update and feature expansion"
+    },
+    {
+        Title = "Bizzare Lineage",
+        Date = "03/02",
+
+        Changes = {
+            "• Initial release",
+            "• Beginning of our journey"
+        },
+
+        Note = "Nothing"
+    },
+}
+
+return Data

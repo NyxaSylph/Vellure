@@ -1,6 +1,6 @@
 local Data = {}
 
-Data.Build = "1.1"
+Data.Build = "1.2"
 
 Data.SupportedGames = {
     {

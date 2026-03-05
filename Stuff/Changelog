@@ -8,6 +8,11 @@ Data.SupportedGames = {
         Status = "Live",
         Date = "03-02-2026"
     },
+    {
+        Game = "Test"
+        Status = "Live",
+        Date = "03-05-2026"
+    }
 }
 
 Data.Changelogs = {

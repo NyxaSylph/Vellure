@@ -8,14 +8,30 @@ Data.SupportedGames = {
         Status = "Live",
         Date = "03-02-2026"
     },
-    {
-        Game = "Test"
-        Status = "Live",
-        Date = "03-05-2026"
-    },
 }
 
 Data.Changelogs = {
+    {
+        Title = "Bizzare Lineage",
+        Date = "03/03",
+
+        Changes = {
+            "[+] Now UI FULLY support Mobile users",
+            "[+] Auto More Mobs in Farm",
+            "[+] Mob Farm now stacks with Item Farm",
+            "[+] Stand Sniper have stand Skins List",
+            "[+] Added Item selection in Item Farm",
+            "[+] Auto Prestige",
+            "[+] Auto Craft",
+            "[+] Auto Buy",
+            "[+] Shop Uis",
+            "[+] Boost Fps",
+            "[+] 3D Render",
+            "[+] Remove Map"
+        },
+
+        Note = "Stability update and feature expansion"
+    },
     {
         Title = "Bizzare Lineage",
         Date = "03/03",

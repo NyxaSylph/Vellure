@@ -25,7 +25,7 @@ Loader.Files = {
         CreatorId = 33161040
     },
     ["A Universal Time"] = {
-        file = "AUT/Main.lua",
+        File = "AUT/Main.lua",
         CreatorId = 6556072
     }
 }
@@ -54,5 +54,4 @@ function Loader:LoadByCreatorId(CreatorId)
 end
 
 Loader:LoadByCreatorId(game.CreatorId)
-
-return Loader
+return Loade

@@ -25,7 +25,7 @@ Loader.Files = {
         CreatorId = 33161040
     },
     ["A Universal Time"] = {
-        file = "AUT/main.lua",
+        file = "AUT/Main.lua",
         CreatorId = 6556072
     }
 }

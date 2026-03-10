@@ -23,7 +23,7 @@ Data.Changelogs = {
         Changes = {
             "• Auto QTE",
             "• Auto Use Moves",
-            "• Thugs & Hooligans",
+            "• Npcs: Thugs & Hooligans, Prisoners",
         },
 
         Note = "Get Good, Buy Vellure"

@@ -1,6 +1,6 @@
 local Data = {}
 
-Data.Build = "1.3"
+Data.Build = "1.4"
 
 Data.SupportedGames = {
     {
@@ -16,6 +16,18 @@ Data.SupportedGames = {
 }
 
 Data.Changelogs = {
+    {
+        Title = "A Universal Time",
+        Date = "03/10",
+
+        Changes = {
+            "• Auto QTE",
+            "• Auto Use Moves",
+            "• Thugs & Hooligans",
+        },
+
+        Note = "Get Good, Buy Vellure"
+    },
     {
         Title = "A Universal Time",
         Date = "03/09",

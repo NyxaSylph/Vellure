@@ -1,12 +1,12 @@
 local Data = {}
 
-Data.Build = "1.4"
+Data.Build = "1.6"
 
 Data.SupportedGames = {
     {
         Game = "Bizzare Lineage",
         Status = "Live",
-        Date = "03-02-2026"
+        Date = "03-11-2026"
     },
     {
         Game = "A Universal Time",
@@ -17,76 +17,95 @@ Data.SupportedGames = {
 
 Data.Changelogs = {
     {
+        Title = "Bizzare Lineage",
+        Date = "03/11",
+
+        Changes = {
+            "[~] Fixed Auto Mission",
+            "[+] Added Auto Gang Contract",
+            "[+] Added Auto World Event",
+            "[+] Added More Accessories",
+            "[+] Added ESPs",
+            "PAID:",
+            "[+] Added Auto Storyline",
+            "[+] Added No Stun",
+            "[+] Added Instakill [Raids]",
+            "[+] Added Serverhop World Event",
+            "[+] All farms stacked with Mob Farm (Item Farm, World Event)",
+        },
+
+        Note = "Feature expansion and premium update"
+    },
+    {
         Title = "A Universal Time",
         Date = "03/10",
 
         Changes = {
-            "• Auto QTE",
-            "• Auto Use Moves",
-            "• Npcs: Thugs & Hooligans, Prisoners",
+            "[+] Added Auto QTE",
+            "[+] Added Auto Use Moves",
+            "[+] Added NPC support: Thugs, Hooligans, Prisoners",
         },
 
-        Note = "Get Good, Buy Vellure"
+        Note = "Combat automation update"
     },
     {
         Title = "A Universal Time",
         Date = "03/09",
 
         Changes = {
-            "• Initial release",
-            "• Beginning of our journey"
+            "[+] Initial release",
+            "[+] Beginning of our journey"
         },
 
-        Note = "Nothing"
+        Note = "First public version"
     },
     {
         Title = "Bizzare Lineage",
         Date = "03/03",
 
         Changes = {
-            "[+] Now UI FULLY support Mobile users",
-            "[+] Auto More Mobs in Farm",
+            "[+] Full mobile UI support",
+            "[+] Added Auto More Mobs in Farm",
             "[+] Mob Farm now stacks with Item Farm",
-            "[+] Stand Sniper have stand Skins List",
-            "[+] Added Item selection in Item Farm",
-            "[+] Auto Prestige",
-            "[+] Auto Craft",
-            "[+] Auto Buy",
-            "[+] Shop Uis",
-            "[+] Boost Fps",
-            "[+] 3D Render",
-            "[+] Remove Map"
+            "[+] Stand Sniper now supports skin selection",
+            "[+] Added item selection in Item Farm",
+            "[+] Added Auto Prestige",
+            "[+] Added Auto Craft",
+            "[+] Added Auto Buy",
+            "[+] Added Shop UIs",
+            "[+] Added Boost FPS mode",
+            "[+] Added 3D Render toggle",
+            "[+] Added Remove Map option"
         },
 
-        Note = "Stability update and feature expansion"
+        Note = "Major feature expansion and UI improvements"
     },
     {
         Title = "Bizzare Lineage",
         Date = "03/03",
 
         Changes = {
-            "[+] Auto Block DIO",
-            "[+] More Advanced Stand Sniper",
-            "[+] Farm Selected Mobs",
-
-            "[~] Auto Mission — improved infinite NPC talk",
-            "[~] Auto PvP Mission — improved stability",
-            "[~] Auto Raids — improved logic and reliability",
-            "[~] Server Hop Farm"
+            "[+] Added Auto Block DIO",
+            "[+] Improved Stand Sniper",
+            "[+] Added Farm Selected Mobs",
+            "[~] Auto Mission improved infinite NPC talk handling",
+            "[~] Auto PvP Mission stability improved",
+            "[~] Auto Raids logic improved",
+            "[~] Server Hop Farm reliability improved"
         },
 
-        Note = "Stability update and feature expansion"
+        Note = "Stability and automation improvements"
     },
     {
         Title = "Bizzare Lineage",
         Date = "03/02",
 
         Changes = {
-            "• Initial release",
-            "• Beginning of our journey"
+            "[+] Initial release",
+            "[+] Beginning of our journey"
         },
 
-        Note = "Nothing"
+        Note = "First public version"
     },
 }
 

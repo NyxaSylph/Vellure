@@ -1,6 +1,6 @@
 local Data = {}
 
-Data.Build = "1.6"
+Data.Build = "1.7"
 
 Data.SupportedGames = {
     {
@@ -16,6 +16,32 @@ Data.SupportedGames = {
 }
 
 Data.Changelogs = {
+    {
+        Title = "Bizzare Lineage",
+        Date = "03/14",
+
+        Changes = {
+            "[+] Added Sub & Fighting Abilities",
+            "[+] Added Kill Players",
+            "[+] Added Auto Reconnect",
+            "[+] Added Advanced Item Management",
+            "[+] Added Auto Execute",
+            "[~] Improve Auto Gang Contract | Better Rescue Gang Member Logic",
+            "[~] Improve Auto Storyline | Optimized Flow",
+            "[~] Improve Auto Mission | More Stable",
+            "[~] Improve Stand Sniper | Have Better Logic",
+            "[~] Improve InstaKill | Way Faster Now",
+            "[~] Improve Auto Skills | Way Smarter Now",
+            "[~] Improve Config System | Reworked for Better Stability",
+            "[~] Fixed InstaKill | Fixed Bugs In Kira and Dio Raids",
+            "[~] Fixed Auto Meditation | Now Teleporting To NPC",
+            "[~] Fixed Auto Storyline | Fixed Known Bugs",
+            "[~] Fixed Shop UIs | No Longer Opening Issues",
+            "[~] Fixed Hop World Event | Now More Stable",
+        },
+
+        Note = "Get Good, Get Vellure"
+    },
     {
         Title = "Bizzare Lineage",
         Date = "03/11",

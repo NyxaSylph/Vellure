@@ -1,6 +1,6 @@
 local Data = {}
 
-Data.Build = "1.7"
+Data.Build = "1.8"
 
 Data.SupportedGames = {
     {
@@ -16,6 +16,22 @@ Data.SupportedGames = {
 }
 
 Data.Changelogs = {
+    {
+        Title = "A Universal Time",
+        Date = "03/17",
+
+        Changes = {
+            "• Added Auto Instant Judgement Cut",
+            "• Added Auto Sin Devil Trigger",
+            "• Added Auto Claim Playtime Rewards",
+            "• Added Ability Selection for Boundless Tower",
+            "• Added More Npcs For Auto Kill Npc",
+            "• Added More Items For Auto Store",
+            "• Fixed Boundless Tower Bugs",
+        },
+
+        Note = "Get Good, Buy Vellure"
+    },
     {
         Title = "Bizzare Lineage",
         Date = "03/14",

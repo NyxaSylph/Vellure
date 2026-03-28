@@ -1,6 +1,6 @@
 local Data = {}
 
-Data.Build = "1.8"
+Data.Build = "1.9"
 
 Data.SupportedGames = {
     {
@@ -16,6 +16,22 @@ Data.SupportedGames = {
 }
 
 Data.Changelogs = {
+    {
+        Title = "A Universal Time",
+        Date = "03/28",
+
+        Changes = {
+            "+ Added Ability Pick after Trait Pick for Auto Trait",
+            "+ Added Auto Buy Trait Hand using Crimson Orbs",
+            "+ Added Auto Farm Camellite/Sand Debris/Meteorite",
+            "+ Added Auto Claim Daily Rewards",
+            "+ Added Pity Counter for Auto Trait Section",
+            "+ Added More Boss Npcs",
+            "+ Added More Slayer Quests",
+        },
+
+        Note = "Trait and farming expansion update"
+    },
     {
         Title = "A Universal Time",
         Date = "03/17",

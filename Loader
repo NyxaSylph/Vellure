@@ -27,6 +27,10 @@ Loader.Files = {
     ["A Universal Time"] = {
         File = "AUT/Main.lua",
         CreatorId = 6556072
+    },
+    ["Sailor Piece"] = {
+        File = "SP/Main.lua",
+        CreatorId = 1002185259
     }
 }
 

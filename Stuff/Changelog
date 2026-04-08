@@ -13,9 +13,27 @@ Data.SupportedGames = {
         Status = "Live",
         Date = "03-09-2026"
     },
+    {
+        Game = "Sailor Piece",
+        Status = "Live",
+        Date = "04-09-2026"
+    },
 }
 
 Data.Changelogs = {
+    {
+        Title = "Sailor Piece",
+        Date = "04/09",
+
+        Changes = {
+            "[+] Added Auto Pity",
+            "[+] Added Auto Item Farm",
+            "[+] Added Auto Merchant",
+            "[+] Added New Bosses",
+            "[+] Added New Mobs",
+            "[~] Included Bypasss Teleport",
+        }
+    },
     {
         Title = "A Universal Time",
         Date = "03/28",

@@ -1,6 +1,6 @@
 local Data = {}
 
-Data.Build = "1.9"
+Data.Build = "2.0"
 
 Data.SupportedGames = {
     {
@@ -21,6 +21,77 @@ Data.SupportedGames = {
 }
 
 Data.Changelogs = {
+    {
+        Title = "Bizzare Lineage",
+        Date = "04/21",
+
+        Changes = {
+            "[+] Added Auto Polnareff",
+            "[+] Added Auto Polnareff ServerHop",
+            "[+] Added Auto Dodge Dio OH [TEST]",
+            "[~] Improved ALOT the best logic in the script ever",
+            "[~] Improved Prison Escape now should do the raid fully",
+            "[~] Improved Kira Raid",
+            "[~] Improved Webhook",
+        },
+
+        Note = "Raid and automation improvements"
+    },
+        {
+        Title = "A Universal Time",
+        Date = "04/20",
+
+        Changes = {
+            "[+] Auto IJC now supports All Moves",
+            "[+] Added Soul Reaper Npc to the list",
+            "[+] Added New Bleach Items to Auto Store",
+        },
+    },
+        {
+        Title = "Bizzare Lineage",
+        Date = "04/19",
+
+        Changes = {
+            "[+] Added 13 Death RAID",
+            "[+] Added Prison Escape RAID",
+            "[+] Added Secret Boss Priority (Prison Escape)",
+            "[~] Added All Sub & Fighting Ability",
+            "[~] Added Mission Type Delivery & Extriminate ",
+            "[~] Improved DIO OVER HEAVEN RAID ",
+        },
+
+        Note = "Raid and automation improvements"
+    },
+    {
+        Title = "A Universal Time",
+        Date = "04/18",
+
+        Changes = {
+            "[+] Added Auto Farm Selected Ability",
+            "[+] Added Bleach Npcs (Hostiles) to the list",
+            "[+] Added Auto Use Selected Items",
+            "[+] Added Bleach Teleports to the list ",
+            "[+] Added Bleach Quest to the list (Dying Soul Reaper)",
+            "[+] Added Refresh Abilities button for Auto Trait",
+        },
+    },
+    {
+        Title = "A Universal Time",
+        Date = "04/16",
+
+        Changes = {
+            "[+] Added Auto Reroll Trait Bonus Stats",
+            "[+] Added Unusual Skin Webhook",
+            "[+] Added Epic Traits for Auto Trait",
+            "[~] Optimized Auto Kill Selected Npc/Group",
+            "[~] Optimized Auto Use Moves",
+            "[+] Added Optimization Section",
+            "[+] Added Remove Effects Toggle",
+            "[+] Added Remove Map Toggle",
+            "[~] Fixed Auto Pick Best Upgrades",
+            "[-] Removed Low Cortisol Mode",
+        }
+    },
     {
         Title = "Sailor Piece",
         Date = "04/09",

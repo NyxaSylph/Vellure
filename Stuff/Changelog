@@ -18,9 +18,48 @@ Data.SupportedGames = {
         Status = "Live",
         Date = "04-09-2026"
     },
+    {
+        Game = "Anime Apocalypse",
+        Status = "Live",
+        Date = "05-13-2026"
+    },
 }
 
 Data.Changelogs = {
+    {
+        Title = "Anime Apocalypse",
+        Date = "05/13",
+
+        Changes = {
+            "[+] Initial release",
+            "[+] Beginning of our journey"
+        },
+    },
+    {
+    Title = "A Universal Time",
+    Date = "05/10",
+
+    Changes = {
+        "[+] Added Yhwach Blood Item",
+        "[+] Added Oni Boss",
+        "[+] Added Oni Quest",
+        "[+] Added Stand User Npcs",
+        "[+] Added Auto Summon Stand (in Auto Moves Dropdown)",
+        "[~] Fixed BoundlessTower Auto Rejoin",
+    },
+    {
+    Title = "A Universal Time",
+    Date = "04/27",
+
+    Changes = {
+        "[+] Added Bosses Selection (Priority)",
+        "[+] Added Semi Insta Kill (Npcs)",
+        "[+] Added All Items",
+        "[+] Added More Npcs",
+        "[+] Splitted Auto Recycle & Auto Forge into 2 Toggles",
+        "[+] Added Auto Remove KillEffects",
+        "[+] Revamped Auto End Boundless Tower Run (previous name: die at selected floor)",
+    },
     {
         Title = "Bizzare Lineage",
         Date = "04/21",
@@ -37,15 +76,15 @@ Data.Changelogs = {
 
         Note = "Raid and automation improvements"
     },
-        {
-        Title = "A Universal Time",
-        Date = "04/20",
+    {
+    Title = "A Universal Time",
+    Date = "04/20",
 
-        Changes = {
-            "[+] Auto IJC now supports All Moves",
-            "[+] Added Soul Reaper Npc to the list",
-            "[+] Added New Bleach Items to Auto Store",
-        },
+    Changes = {
+        "[+] Auto IJC now supports All Moves",
+        "[+] Added Soul Reaper Npc to the list",
+        "[+] Added New Bleach Items to Auto Store",
+    },
     },
         {
         Title = "Bizzare Lineage",

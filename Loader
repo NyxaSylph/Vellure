@@ -31,7 +31,11 @@ Loader.Files = {
     ["Sailor Piece"] = {
         File = "SP/Main.lua",
         CreatorId = 1002185259
-    }
+    },
+    ["Anime Apocalypse"] = {
+        File = "AP/Main.lua",
+        CreatorId = 534034976
+    },
 }
 
 function Loader:LoadByCreatorId(CreatorId)

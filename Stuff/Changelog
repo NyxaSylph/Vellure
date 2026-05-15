@@ -35,31 +35,36 @@ Data.Changelogs = {
             "[+] Beginning of our journey"
         },
     },
-    {
-    Title = "A Universal Time",
-    Date = "05/10",
 
-    Changes = {
-        "[+] Added Yhwach Blood Item",
-        "[+] Added Oni Boss",
-        "[+] Added Oni Quest",
-        "[+] Added Stand User Npcs",
-        "[+] Added Auto Summon Stand (in Auto Moves Dropdown)",
-        "[~] Fixed BoundlessTower Auto Rejoin",
-    },
     {
-    Title = "A Universal Time",
-    Date = "04/27",
+        Title = "A Universal Time",
+        Date = "05/10",
 
-    Changes = {
-        "[+] Added Bosses Selection (Priority)",
-        "[+] Added Semi Insta Kill (Npcs)",
-        "[+] Added All Items",
-        "[+] Added More Npcs",
-        "[+] Splitted Auto Recycle & Auto Forge into 2 Toggles",
-        "[+] Added Auto Remove KillEffects",
-        "[+] Revamped Auto End Boundless Tower Run (previous name: die at selected floor)",
+        Changes = {
+            "[+] Added Yhwach Blood Item",
+            "[+] Added Oni Boss",
+            "[+] Added Oni Quest",
+            "[+] Added Stand User Npcs",
+            "[+] Added Auto Summon Stand (in Auto Moves Dropdown)",
+            "[~] Fixed BoundlessTower Auto Rejoin",
+        },
     },
+
+    {
+        Title = "A Universal Time",
+        Date = "04/27",
+
+        Changes = {
+            "[+] Added Bosses Selection (Priority)",
+            "[+] Added Semi Insta Kill (Npcs)",
+            "[+] Added All Items",
+            "[+] Added More Npcs",
+            "[+] Splitted Auto Recycle & Auto Forge into 2 Toggles",
+            "[+] Added Auto Remove KillEffects",
+            "[+] Revamped Auto End Boundless Tower Run (previous name: die at selected floor)",
+        },
+    },
+
     {
         Title = "Bizzare Lineage",
         Date = "04/21",
@@ -76,17 +81,19 @@ Data.Changelogs = {
 
         Note = "Raid and automation improvements"
     },
-    {
-    Title = "A Universal Time",
-    Date = "04/20",
 
-    Changes = {
-        "[+] Auto IJC now supports All Moves",
-        "[+] Added Soul Reaper Npc to the list",
-        "[+] Added New Bleach Items to Auto Store",
+    {
+        Title = "A Universal Time",
+        Date = "04/20",
+
+        Changes = {
+            "[+] Auto IJC now supports All Moves",
+            "[+] Added Soul Reaper Npc to the list",
+            "[+] Added New Bleach Items to Auto Store",
+        },
     },
-    },
-        {
+
+    {
         Title = "Bizzare Lineage",
         Date = "04/19",
 
@@ -101,6 +108,7 @@ Data.Changelogs = {
 
         Note = "Raid and automation improvements"
     },
+
     {
         Title = "A Universal Time",
         Date = "04/18",
@@ -114,6 +122,7 @@ Data.Changelogs = {
             "[+] Added Refresh Abilities button for Auto Trait",
         },
     },
+
     {
         Title = "A Universal Time",
         Date = "04/16",
@@ -131,6 +140,7 @@ Data.Changelogs = {
             "[-] Removed Low Cortisol Mode",
         }
     },
+
     {
         Title = "Sailor Piece",
         Date = "04/09",
@@ -144,6 +154,7 @@ Data.Changelogs = {
             "[~] Included Bypasss Teleport",
         }
     },
+
     {
         Title = "A Universal Time",
         Date = "03/28",
@@ -160,6 +171,7 @@ Data.Changelogs = {
 
         Note = "Trait and farming expansion update"
     },
+
     {
         Title = "A Universal Time",
         Date = "03/17",
@@ -176,6 +188,7 @@ Data.Changelogs = {
 
         Note = "Get Good, Buy Vellure"
     },
+
     {
         Title = "Bizzare Lineage",
         Date = "03/14",
@@ -202,6 +215,7 @@ Data.Changelogs = {
 
         Note = "Get Good, Get Vellure"
     },
+
     {
         Title = "Bizzare Lineage",
         Date = "03/11",
@@ -222,6 +236,7 @@ Data.Changelogs = {
 
         Note = "Feature expansion and premium update"
     },
+
     {
         Title = "A Universal Time",
         Date = "03/10",
@@ -234,6 +249,7 @@ Data.Changelogs = {
 
         Note = "Combat automation update"
     },
+
     {
         Title = "A Universal Time",
         Date = "03/09",
@@ -245,6 +261,7 @@ Data.Changelogs = {
 
         Note = "First public version"
     },
+
     {
         Title = "Bizzare Lineage",
         Date = "03/03",
@@ -266,6 +283,7 @@ Data.Changelogs = {
 
         Note = "Major feature expansion and UI improvements"
     },
+
     {
         Title = "Bizzare Lineage",
         Date = "03/03",
@@ -282,6 +300,7 @@ Data.Changelogs = {
 
         Note = "Stability and automation improvements"
     },
+
     {
         Title = "Bizzare Lineage",
         Date = "03/02",

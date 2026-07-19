@@ -32,6 +32,10 @@ Loader.Files = {
         File = "AE/Main.lua",
         CreatorId = 35929511
     },
+    ["Iron Soul"] = {
+        File = "IS/Main.lua",
+        CreatorId = 559846885
+    },
 }
 
 function Loader:LoadByCreatorId(CreatorId)
